@@ -1,0 +1,29 @@
+.section {
+  background-color: yellowgreen;
+  color: black;
+  font-family: 'Courier New', Courier, monospace;
+
+} 
+
+h1 { 
+  background-color: yellow;
+  color: black;
+  font-weight: 300;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+p, li {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+h3 {
+  background-color: lightyellow;
+}
+
+.important {
+  font-weight: 600;
+}
+
+.crucial {
+  color:red;
+}
